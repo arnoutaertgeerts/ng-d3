@@ -9,7 +9,7 @@
     function barChart() {
         var directive = {
             restrict: 'EA',
-            templateUrl: 'components/directives/bar-chart.html',
+            templateUrl: 'components/directives/bar-chart/bar-chart.html',
             scope: {
                 data: '='
             },
